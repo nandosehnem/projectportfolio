@@ -17,16 +17,16 @@
 # Test all functions and test for bugs.
 # Update after testing.
 # Once the single functionality of the game is developed work and collaborate with other team members to make sure the main application is functioning properly. 
-# If Someone sees an opportunity to provide insight on code on another person's project or game, communicate and decided what will work best. 
+# If Someone sees an opportunity to provide insight on code on another person's project or game, communicate and decide what will work best. 
 
-# We will need to decide how long we need to spend on each part of the code. 
+# We have to decide how long we need to spend on each part of the code. 
 
 # Each developer should be able to copy from the remote branch of the individuals game and help to assist in creating the code and psuedo code if there are any changes. 
 
 # A dummyBranch has been created for all changes that need to be made in real time and for bug testing and any mistakes or mess ups. This will be the only branch that can have pull requests changes and merges before final product to the main branch. 
 
 # No pull requests for the main branch.
-# The main branch will have the opening web page for the selelction of each game and will consist of a separate index.html and index.js files for compiling code.
+# The main branch will have the opening web page for the selection of each game and will consist of a separate index.html and index.js files for compiling code.
 
 # Reminder to use the javascript lessons to provide and include what we have and will learn over the course. 
 
