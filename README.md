@@ -47,6 +47,8 @@
 
 # 4. git push -u origin "branch name" NOT MAIN 
 
+# We can all push the files to our own individualy repo, but this may create a lot of headaches as we would be making a lot of constant changes to each others personal repo.
+
 
 
 
